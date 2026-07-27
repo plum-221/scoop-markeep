@@ -1,5 +1,5 @@
 {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "不改你文件的 Markdown 编辑器 — 所见即所得，打开再保存文件逐字节不变",
     "homepage": "https://markeep.pages.dev",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/plum-221/markeep-releases/releases/download/v0.0.4/Markeep-Setup-0.0.4.exe#/setup.exe",
-            "hash": "sha256:b9e78fb3743f105d40c6373dcb9f69363cbe455de639009ff2ecb179059b25c0"
+            "url": "https://github.com/plum-221/markeep-releases/releases/download/v0.0.5/Markeep-Setup-0.0.5.exe#/setup.exe",
+            "hash": "sha256:8ff31febb3104a9d1c34d2ff46b5baa8ea9ccafdbbb87b6438d66f2ea4a8e1fd"
         }
     },
     "installer": {
